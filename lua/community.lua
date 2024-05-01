@@ -6,5 +6,6 @@
 return {
   "AstroNvim/astrocommunity",
   { import = "astrocommunity.pack.python-ruff" },
+  { import = "astrocommunity.pack.nix" },
   { import = "astrocommunity.colorscheme.gruvbox-nvim" }
 }
