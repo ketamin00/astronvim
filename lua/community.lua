@@ -5,6 +5,6 @@
 ---@type LazySpec
 return {
   "AstroNvim/astrocommunity",
-  { import = "astrocommunity.pack.lua" },
-  { import = "astrocommunity.colorscheme.gruvbox-nvim"}
+  { import = "astrocommunity.pack.python-ruff" }
+  { import = "astrocommunity.colorscheme.gruvbox-nvim" }
 }
